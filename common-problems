@@ -1,2 +1,5 @@
 1. Ubuntu booted to tty. No GUI. "pkcs#7 signature not signed with a trusted key. see the following:
 https://askubuntu.com/questions/1337549/ubuntu-booted-to-tty-no-gui-pkcs7-signature-not-signed-with-a-trusted-key
+
+2. 在 Linux 上使用 Clash 作代理
+https://einverne.github.io/post/2021/03/linux-use-clash.html
