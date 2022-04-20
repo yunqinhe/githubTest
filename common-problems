@@ -3,3 +3,7 @@ https://askubuntu.com/questions/1337549/ubuntu-booted-to-tty-no-gui-pkcs7-signat
 
 2. 在 Linux 上使用 Clash 作代理
 https://einverne.github.io/post/2021/03/linux-use-clash.html
+
+3. how to set network proxy in xfce manually
+change the /etc/environment as the following web page
+https://superuser.com/questions/357688/how-to-configure-proxy-settings-on-linux-xfce
