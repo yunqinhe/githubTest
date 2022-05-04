@@ -1,3 +1,6 @@
+4. Using C++ on Linux in VS Code. the url is as following:
+https://code.visualstudio.com/docs/cpp/config-linux
+
 1. Ubuntu booted to tty. No GUI. "pkcs#7 signature not signed with a trusted key. see the following:
 https://askubuntu.com/questions/1337549/ubuntu-booted-to-tty-no-gui-pkcs7-signature-not-signed-with-a-trusted-key
 
@@ -7,3 +10,5 @@ https://einverne.github.io/post/2021/03/linux-use-clash.html
 3. how to set network proxy in xfce manually
 change the /etc/environment as the following web page
 https://superuser.com/questions/357688/how-to-configure-proxy-settings-on-linux-xfce
+
+
