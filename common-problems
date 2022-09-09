@@ -1,3 +1,12 @@
+7. freecad window gets transparent
+Finally, I solved the problem. It was related to ANSYS installation. It was noticed that if you have transparency issues in CFX pre/post or turbogrid, add this to ~/.bashrc:
+export XLIB_SKIP_ARGB_VISUALS=1
+It solved the problem both in ANSYS and freeCad.
+
+find more at url https://askubuntu.com/questions/1200451/freecad-window-gets-transparent
+
+
+
 6. 5 free picture editing software
 https://www.photopea.com/ free online photoshop
 https://www.youtube.com/watch?v=EgqVf-okE0s
